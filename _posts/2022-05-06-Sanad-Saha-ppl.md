@@ -7,6 +7,7 @@ affiliation: PhD, CS
 isStudent: 1
 email: sahas@oregonstate.edu
 ---
+---
 layout: post
 categories: people
 title: Sanad Saha
