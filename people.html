@@ -1,0 +1,46 @@
+---
+layout: default
+---
+<h1>People</h1>
+<div class="well">
+    <h1>Current members</h1>
+    {% assign sortedPosts = site.categories.people | sort: 'title' %}
+    <table style="width:100%">
+        <tr>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Affiliation</th>
+        </tr>
+        {%for post in sortedPosts %}
+            {% if post.isStudent == 1 %}
+                <tr>
+                    <td>{{ post.title }}</td>
+                    <td>{{ post.email }}</td>
+                    <td>{{ post.affiliation }}</td>
+                    </tr>
+                {% endif %}
+        {% endfor %}
+        </table>
+</div>
+
+<div class="well">
+    <h1>Alumni at OSU from Bangladesh</h1>
+    <p>Here some of the people were not present at OSU or member of this organization at the time of forming BSAatOSU. For the sake of keeping records of alumni from Bangladesh we listed them here.</p>
+    {% assign sortedPosts = site.categories.people | sort: 'title' %}
+    <table style="width:100%">
+        <tr>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Affiliation</th>
+        </tr>
+        {%for post in sortedPosts %}
+        {% if post.isStudent == 0 %}
+        <tr>
+            <td>{{ post.title }}</td>
+            <td>{{ post.email }}</td>
+            <td>{{ post.affiliation }}</td>
+        </tr>
+        {% endif %}
+        {% endfor %}
+    </table>
+</div>

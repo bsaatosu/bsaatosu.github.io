@@ -1,0 +1,65 @@
+---
+layout: default
+---
+<h1>Bangladesh Student Association <br>at Oregon State University</h1>
+<div class="article">
+    <div class="well">
+        Welcome to Bangladesh Student Association at Oregon State University!
+            <br>
+            <br>
+            The greater purpose of the organization would be student welfare, to promote, and foster the values and culture of Bangladesh amongst the community of Oregon State University (OSU). The main objective of this organization shall be to utilize BSA as an ambassadorial flag for the Bangladeshi students at OSU to increase camaraderie among our peers and within the Bangladeshi community. It will work towards encouraging aspirants from Bangladesh to join OSU, assuring and assisting them for a smooth transition of their pursuit for higher studies at OSU. It will strive to serve as a platform to keep the practice of vibrant Bangladeshi culture and festivals extant among us and to introduce it to the wider OSU community. The way to achieve these purposes include, but are not restricted to, formation and participation of intra-cultural activities, participation in activities and programs that are sponsored by the University and/or other organizations.
+            <br>
+            <br>
+            Membership of our association shall not be denied to any student on the basis of age, color, disability, gender identity or expression, genetic information, marital status, national origin, race, religion, sex, sexual orientation, or veteran status.
+    </div>
+</div>
+
+<div class="article">
+    <div class="well">
+        <h1>Recent Posts</h1>
+<ul>
+    {% for post in site.categories.post limit:5 %}
+    <li><a href="{{ site.baseurl}}{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+</ul>
+    </div>
+</div>
+
+
+<!---->
+<!--<!--<div class="article">-->
+<!--<!--    <div class="well">-->
+<!--        {% for post in paginator.posts %}-->
+<!--            {% if post.categories == post %}-->
+<!--                <h4><a href="{{ site.baseurl}}{{ post.url }}">{{ post.date | date: "%b %-d, %Y" }} - {{ post.title }}</a></h4>-->
+<!--                {% if site.comments and post.comments %}-->
+<!--                    {% if site.disqus != '' %}-->
+<!--                    <p class="author"><a href="{{ site.baseurl }}{{ post.url }}/#disqus_thread" data-disqus-identifier="{{ post.url | slugify }}">Comments</a></p>-->
+<!--                    {% elsif site.isso != '' %}-->
+<!--                    <p class="author"><a href="{{ site.baseurl }}{{ post.url }}{{ site.isso_suffix }}#isso-thread">Comments</a></p>-->
+<!--                    {% endif %}-->
+<!--                {% endif %}-->
+<!--            {% endif %}-->
+<!--        {% endfor %}-->
+<!--<!--        <div class="content">-->
+<!--<!--            {{ post.content }}-->
+<!--<!--        </div>-->
+<!--<!--    </div>-->
+<!--<!--</div>-->
+<!--    </div>-->
+<!--</div>-->
+<!---->
+<!---->
+<!--<div class="pagination">-->
+<!--  {% if paginator.previous_page %}-->
+<!--      {% if paginator.previous_page == 1 %}-->
+<!--        <a class="btn btn-default" href="{{ site.baseurl}}/index.html" class="previous">Newer</a>-->
+<!--      {% else %}-->
+<!--        <a class="btn btn-default" href="{{ site.baseurl}}/page{{ paginator.previous_page }}" class="previous">Newer</a>-->
+<!--      {% endif %}-->
+<!--  {% endif %}-->
+<!--  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>-->
+<!--  {% if paginator.next_page %}-->
+<!--    <a class="btn btn-default" href="{{ site.baseurl}}/page{{ paginator.next_page }}" class="next">Older</a>-->
+<!--  {% endif %}-->
+<!--</div>-->

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="220mm"
+   viewBox="0 0 744.09449 779.52755"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91+devel r14842"
+   sodipodi:docname="favicon.svg"
+   inkscape:export-filename="/Users/Tbone/favicon.png"
+   inkscape:export-xdpi="600"
+   inkscape:export-ydpi="600">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.57982756"
+     inkscape:cx="-204.69399"
+     inkscape:cy="511.37059"
+     inkscape:document-units="px"
+     inkscape:current-layer="g3"
+     showgrid="false"
+     inkscape:window-width="1243"
+     inkscape:window-height="756"
+     inkscape:window-x="571"
+     inkscape:window-y="137"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-272.83465)">
+    <g
+       transform="matrix(1.439845,0,0,1.439845,243.1307,437.79749)"
+       id="g3">
+      <g
+         id="g5"
+         transform="matrix(5.7359047,0,0,5.7359047,-117.15358,-43.974897)">
+        <defs
+           id="defs7">
+          <rect
+             x="0"
+             height="72.246002"
+             width="69.300003"
+             y="0"
+             id="SVGID_1_" />
+        </defs>
+        <clipPath
+           id="SVGID_2_">
+          <use
+             height="600"
+             width="800"
+             y="0"
+             x="0"
+             style="overflow:visible"
+             id="use11"
+             overflow="visible"
+             xlink:href="#SVGID_1_" />
+        </clipPath>
+        <polygon
+           style="fill:none;stroke:#000000"
+           id="polygon13"
+           points="-9.491,-7.079 -9.491,74.731 79.136,74.731 79.136,-7.079 "
+           clip-path="url(#SVGID_2_)" />
+      </g>
+      <polygon
+         style="fill:#f36f21"
+         id="polygon15"
+         points="26.732,14.046 26.732,1.732 1.868,1.732 1.868,14.046 6.455,14.046 9.756,22.132 25.469,22.132 22.06,14.046 "
+         inkscape:export-filename="/Users/Tbone/text4956.png"
+         inkscape:export-xdpi="600"
+         inkscape:export-ydpi="600"
+         transform="matrix(5.7359047,0,0,5.7359047,-117.15358,-43.974897)" />
+      <polygon
+         style="fill:#f36f21"
+         id="polygon17"
+         points="42.156,14.046 46.828,14.046 43.419,22.132 59.131,22.132 62.433,14.046 67.019,14.046 67.019,1.732 42.156,1.732 "
+         inkscape:export-filename="/Users/Tbone/text4956.png"
+         inkscape:export-xdpi="600"
+         inkscape:export-ydpi="600"
+         transform="matrix(5.7359047,0,0,5.7359047,-117.15358,-43.974897)" />
+      <polygon
+         style="fill:#f36f21"
+         id="polygon19"
+         points="34.444,42.956 32.363,38.252 16.473,38.252 29.011,68.343 39.876,68.343 52.416,38.252 36.525,38.252 34.444,42.956 "
+         inkscape:export-filename="/Users/Tbone/text4956.png"
+         inkscape:export-xdpi="600"
+         inkscape:export-ydpi="600"
+         transform="matrix(5.7359047,0,0,5.7359047,-117.15358,-43.974897)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:89.63638306px;line-height:125%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#232d49;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+         x="-21.144974"
+         y="162.04607"
+         id="text4956"
+         sodipodi:linespacing="125%"
+         inkscape:export-filename="/Users/Tbone/text4956.png"
+         inkscape:export-xdpi="600"
+         inkscape:export-ydpi="600"><tspan
+           sodipodi:role="line"
+           id="tspan4958"
+           x="-21.144974"
+           y="162.04607">ABS</tspan></text>
+    </g>
+  </g>
+</svg>
