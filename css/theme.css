@@ -13,7 +13,7 @@ body {
 }
 
 .header {
-    background-color: #232d4a;
+    background-color: #D73F09;
 }
 
 .footer a {
@@ -21,12 +21,12 @@ body {
 }
 
 .sidebar h1 {
-    color: #ee4444;
+    color: #D73F09;
     font-size: 1.3em;
 }
 
 .sidebar a {
-    color: #428bca;
+    color: #D73F09;
 }
 
 .sidebar li {
@@ -35,7 +35,7 @@ body {
 }
 
 .sidebar a:hover {
-    color: #3071a9;
+    color: #D73F09;
 }
 
 .container-left {
@@ -56,22 +56,22 @@ body {
 }
 
 .navbar {
-    background-color: #232d4a;
+    background-color: #D73F09;
 }
 
 .navbar a {
-    color: #000;
+    color: #D73F09;
 }
 .navbar brand {
-    color: #000;
+    color: #D73F09;
 }
 .navbar-nav{
-    background-color: #232d4a;
+    background-color: #D73F09;
 }
 
 .img-logo{
     display: block;
     margin-left: 15px;
     margin-right: -5px;
-    width: 40%;
+    width: 60%;
 }
