@@ -2,7 +2,7 @@
 layout: post
 categories: event
 title: After EID Meetup by BSA@OSU
-date: 2022-04-21 16:25:06 +0500
+date: 2022-05-05 17:25:06 +0500
 author: bsa
 comments: true
 ---
