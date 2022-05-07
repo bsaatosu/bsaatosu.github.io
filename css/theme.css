@@ -9,7 +9,7 @@ body {
 
 .footer {
     text-align: center;
-    background-color: #232d4a;
+    background-color: #D73F09;
 }
 
 .header {
@@ -48,11 +48,11 @@ body {
 }
 
 .author {
-    color: #ee4444;
+    color: #D73F09;
 }
 
 .author a {
-    color: #ee4444;
+    color: #D73F09;
 }
 
 .navbar {
